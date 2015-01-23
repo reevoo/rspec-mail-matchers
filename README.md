@@ -22,8 +22,6 @@ And then execute:
 
 describe 'sending an email' do
 
-end
-```
 Mail.defaults do
   delivery_method :test # in practice you'd do this in spec_helper.rb
 end
@@ -62,6 +60,7 @@ describe "sending an email" do
   end
 
 end
+```
 
 # Contributing
 
