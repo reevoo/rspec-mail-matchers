@@ -2,7 +2,7 @@
 
 These are some RSpec matchers to be used with the [Mail gem](https://github.com/mikel/mail).
 
-The mail gem allready includes some rspec matchers but these are for if you want to use the expect syntax in your specs.
+The mail gem already includes some rspec matchers but these are for if you want to use the expect syntax in your specs.
 
 You can make assertions against a specific Mail::Message, but there is no functionality for finding the message for you like the included matchers.
 
