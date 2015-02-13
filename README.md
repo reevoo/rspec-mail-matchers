@@ -6,6 +6,8 @@ The mail gem already includes some rspec matchers but these are for if you want 
 
 You can make assertions against a specific Mail::Message, but there is no functionality for finding the message for you like the included matchers.
 
+[The full list of matchers are defined in this file.](lib/rspec-mail-matchers.rb)
+
 ## Installation
 
 Add this line to your application's Gemfile in the test group:
